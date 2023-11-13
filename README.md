@@ -6,6 +6,9 @@ Then, it loops through the parsed data and calculates the total number of stars 
 
 Finally, it loops through the map, calculates the average rating, and creates new pages under the database.
 
+Screenshot of what the DB looks like after running the program:
+![notionresult](https://github.com/aaron3alexander/notion-takehome/assets/85078021/1f2229d3-dce0-4185-a26e-7acc2297420e)
+
 ## How to Run:
 
 1.  `cd` into the root folder
