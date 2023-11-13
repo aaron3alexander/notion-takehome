@@ -1,0 +1,15 @@
+{
+  "name": "notion",
+  "version": "1.0.0",
+  "description": "Notion takehome exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Alexander",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^2.2.13",
+    "dotenv": "^16.3.1"
+  }
+}
